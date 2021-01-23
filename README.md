@@ -3,4 +3,4 @@
 
 Repositório criado durante um vídeo aula do professor Gustavo Guanabara!
 
-Linha introduzida diretamente do site!Bacana.
+Linha introduzida diretamente do site! Bacana.
